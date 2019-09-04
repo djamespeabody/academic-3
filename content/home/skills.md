@@ -14,16 +14,17 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "pencil-ruler"
-  icon_pack = "fas"
-  name = "Experimental Design"
-  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  description = ""
+  
+[[feature]]
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "Experimental Design"
   description = ""
   
 [[feature]]
