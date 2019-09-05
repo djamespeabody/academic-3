@@ -47,7 +47,7 @@ social:
   link: 'mailto:jpeabody@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: 'https://drive.google.com/file/d/11LEb96kQ7Qn9AzJNnKeLovo5UYHc7JPt/view?usp=sharing'  # For a direct email link, use "mailto:test@example.org"
+  link: 'cv.pdf'  # For a direct email link, use "mailto:test@example.org"
 
 # - icon: instagram
 #  icon_pack: fab
