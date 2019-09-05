@@ -21,19 +21,20 @@ organizations:
 bio: Social Identity Theory.
 
 interests:
-- SIT
-- SCT
-- R
+- Social Identity Theory
+- Self-Categorization Theory
+- Minority Influence
+-Integrated Threat Theory
 
 education:
   courses:
-  - course: MA in Psychology
+  - course: Pursuing M.A. in Psychology
     institution: Humboldt State University
     year: 2021
-  - course: BA in Psychology
+  - course: Pursuing B.A. in Psychology
     institution: Humboldt State Unversity
     year: 2021
-  - course: AA in Psychology
+  - course: A.A. in Psychology
     institution: Palomar College
     year: 2018
 
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+James Peabody is a graduate student studying social psychology with an emphasis in academic research. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics.
