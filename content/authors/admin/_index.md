@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jpeabody@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: instagram
-#  icon_pack: fab
-#  link: https://www.instagram.com/d.james.peabody/
+ - icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/d.james.peabody/
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
