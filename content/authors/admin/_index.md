@@ -1,6 +1,6 @@
 ---
 # Display name
-name: James Peabody
+name: D. James Peabody
 
 # Username (this should match the folder name)
 authors:
