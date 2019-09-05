@@ -75,5 +75,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-James Peabody is a graduate student studying social psychology with an emphasis in academic research. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics.
