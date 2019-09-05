@@ -1,5 +1,5 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
+# A
 # This section displays recent talks from `content/talk/`.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -12,7 +12,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 
 +++
