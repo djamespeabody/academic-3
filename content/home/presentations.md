@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-Peabody, D., Sherburne, B., Hackett, J., & Gaffney, A. (2019). Relationships between prototypicality, integrated threat, and outgroup evaluations. Poster to be presented at the Society for the Psychological Studies of Social Issues Conference in San Diego, CA.
+<b>Peabody, D.</b>, Sherburne, B., Hackett, J., & Gaffney, A. (2019). Relationships between prototypicality, integrated threat, and outgroup evaluations. Poster to be presented at the Society for the Psychological Studies of Social Issues Conference in San Diego, CA.
 
 McLaughlin, C., Foster, A., Peabody, D., & Sanchez, K. (2019). The role of encoding specificity in incidental learning: Implications for explicit and implicit false memories. Poster to be presented at the Western Psychological Association Conference in Pasadena, CA.
 
