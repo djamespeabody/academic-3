@@ -24,7 +24,7 @@ interests:
 - Social Identity Theory
 - Self-Categorization Theory
 - Minority Influence
--Integrated Threat Theory
+- Integrated Threat Theory
 
 education:
   courses:
@@ -75,3 +75,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
