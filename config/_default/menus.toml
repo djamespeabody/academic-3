@@ -13,7 +13,7 @@
   url = "#experience"
   weight = 20
 
-# [[main]]
+ [[main]]
   name = "Presentations"
   url = "#presentations"
   weight = 30
