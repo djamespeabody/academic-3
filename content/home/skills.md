@@ -34,7 +34,7 @@ subtitle = ""
   description = "Skill Level: Advanced"  
   
 [[feature]]
-  icon = "camera"
+  icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
   description = "Skill Level: Proficient"
