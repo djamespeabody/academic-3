@@ -25,18 +25,29 @@ subtitle = ""
   icon = "pencil-ruler"
   icon_pack = "fas"
   name = "Experimental Design"
-  description = ""
+  description = "Skill Level: Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "Skill Level: Advanced"  
   
-# [[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = ""
+[[feature]]
+  icon = "camera"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "Skill Level: Proficient"
 
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Lightroom & Photoshop"
+  description = "Skill Level: Proficient"
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "HTML & CSS"
+  description = "Skill Level: Basic"
 +++
