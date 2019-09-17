@@ -42,7 +42,7 @@ subtitle = ""
 [[feature]]
   icon = "adobe"
   icon_pack = "fab"
-  name = "Lightroom & Photoshop"
+  name = "Adobe Lightroom"
   description = "Skill Level: Proficient"
   
 [[feature]]
