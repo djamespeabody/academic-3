@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Cognition Lab, Humboldt State University"
-  company_url = ""
+  company_url = "https://psychology.humboldt.edu/cognition-lab"
   location = "Arcata, California"
   date_start = "2018-08-01"
   date_end = ""
