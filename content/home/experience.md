@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Intergroup Relations Lab, Humboldt State University"
-  company_url = ""
+  company_url = "https://psychology.humboldt.edu/intergroup-relations-lab"
   location = "Arcata, California"
   date_start = "2018-08-01"
   date_end = "2019-05-15"
