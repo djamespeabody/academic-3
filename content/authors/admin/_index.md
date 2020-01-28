@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jpeabody@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: osf
-#  icon_pack: ai
-#  link: 'https://osf.io/2hxt7/'  # For a direct email link, use "mailto:test@example.org".
+- icon: osf
+  icon_pack: ai
+  link: 'https://osf.io/2hxt7/'  # For a direct email link, use "mailto:test@example.org".
 # - icon: github
 #  icon_pack: fab
 #  link: 'https://github.com/djamespeabody/'  # For a direct email link, use "mailto:test@example.org".
