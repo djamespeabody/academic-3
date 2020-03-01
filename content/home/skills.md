@@ -72,7 +72,7 @@ subtitle = ""
 [[feature]]
   icon = "github"
   icon_pack = "fab"
-  name = "GitHub for Repository Management"
+  name = "GitHub"
   description = "Skill Level: Basic"
 
 +++
