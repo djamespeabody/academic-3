@@ -27,9 +27,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Data Analysis
-  * Experimental Design
-  * Website Management
+  * Data analysis with <i>R</i>
+  * Data cleaning and visualization with <i>ggplot2</i> and other packages from the <i>tidyverse</i> suite.
+  * Experimental design
+  * Survey design with <i>Qualtrics</i>
+  * Website management using <i>GitHub</i>
+  * Presenting research at conferences
   """
 
 [[experience]]
@@ -42,9 +45,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Data Analysis
-  * Experimental Design
-  * Running Participants through Experimental Procedures
+  * Data analysis with <i>R</i>
+  * Data cleaning and visualization with <i>ggplot2</i> and other packages from the <i>tidyverse</i> suite.
+  * Running participants through experimental procedures
   """
 
   
@@ -58,6 +61,6 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * Running Participants through Experimental Procedures
+  * Running participants through experimental procedures
   """
 +++
