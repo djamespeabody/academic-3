@@ -34,8 +34,8 @@ subtitle = ""
   description = "Skill Level: Advanced"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "osf"
+  icon_pack = "ai"
   name = "Open Science Practices"
   description = "Skill Level: Advanced"
 
