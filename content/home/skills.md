@@ -34,28 +34,40 @@ subtitle = ""
   description = "Skill Level: Advanced"
 
 [[feature]]
-  icon = "osf"
-  icon_pack = "ai"
-  name = "Open Science Practices"
-  description = "Skill Level: Advanced"
-
-[[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Structural Equation Modeling"
-  description = "Skill Level: Proficient"  
+  description = "Skill Level: Proficient"
   
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "Social Psychological Theory"
+  description = "Skill Level: Advanced"
+
+[[feature]]
+  icon = "osf"
+  icon_pack = "ai"
+  name = "Open Science Practices"
+  description = "Skill Level: Advanced" 
+
+[[feature]]
+  icon = "clipboard-list"
+  icon_pack = "fas"
+  name = "Survey Design"
+  description = "Skill Level: Proficient"
+ 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
   description = "Skill Level: Proficient"
 
-# [[feature]]
-#  icon = "adobe"
-#  icon_pack = "fab"
-#  name = "Adobe Lightroom"
-#  description = "Skill Level: Proficient"
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe Lightroom"
+  description = "Skill Level: Proficient"
   
 [[feature]]
   icon = "code"
