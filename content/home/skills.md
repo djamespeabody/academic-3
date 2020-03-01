@@ -32,18 +32,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "Skill Level: Advanced"
-
-[[feature]]
-  icon = "osf"
-  icon_pack = "ai"
-  name = "Open Science Practices"
-  description = "Skill Level: Advanced"
-
-[[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Structural Equation Modeling"
-  description = "Skill Level: Proficient"  
   
 [[feature]]
   icon = "camera-retro"
