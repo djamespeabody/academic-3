@@ -31,19 +31,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Skill Level: Advanced"
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Open Science Practices"
-  description = "Skill Level: Advanced"
-
-[[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Structural Equation Modeling"
-  description = "Skill Level: Proficient"  
+  description = "Skill Level: Advanced"  
   
 [[feature]]
   icon = "camera-retro"
@@ -61,17 +49,5 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "HTML & CSS"
-  description = "Skill Level: Basic"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python for Data Science"
-  description = "Skill Level: Basic"
-
-[[feature]]
-  icon = "github
-  icon_pack = "fab"
-  name = "GitHub for Repository Management"
   description = "Skill Level: Basic"
 +++
