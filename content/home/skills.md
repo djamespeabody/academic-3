@@ -51,9 +51,4 @@ subtitle = ""
   name = "HTML & CSS"
   description = "Skill Level: Basic"
 
-[[feature]]
-  icon = "github
-  icon_pack = "fab"
-  name = "GitHub for Repository Management"
-  description = "Skill Level: Basic"
 +++
