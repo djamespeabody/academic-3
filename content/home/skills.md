@@ -34,8 +34,8 @@ subtitle = ""
   description = "Skill Level: Advanced"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "osf"
+  icon_pack = "ai"
   name = "Open Science Practices"
   description = "Skill Level: Advanced"
 
@@ -69,5 +69,10 @@ subtitle = ""
   name = "Python for Data Science"
   description = "Skill Level: Basic"
 
+[[feature]]
+  icon = "github
+  icon_pack = "fab"
+  name = "GitHub for Repository Management"
+  description = "Skill Level: Basic"
 
 +++
