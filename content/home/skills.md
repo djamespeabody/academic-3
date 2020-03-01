@@ -51,11 +51,11 @@ subtitle = ""
   name = "Photography"
   description = "Skill Level: Proficient"
 
-[[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Adobe Lightroom"
-  description = "Skill Level: Proficient"
+# [[feature]]
+#  icon = "adobe"
+#  icon_pack = "fab"
+#  name = "Adobe Lightroom"
+#  description = "Skill Level: Proficient"
   
 [[feature]]
   icon = "code"

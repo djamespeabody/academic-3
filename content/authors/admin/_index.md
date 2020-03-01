@@ -15,16 +15,17 @@ role: Graduate Student in Psychology
 # Organizations/Affiliations
 organizations:
 - name: Humboldt State University
-  url: ""
+  url: "https://hsu-socialidentitylab.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Social Identity Theory.
+bio: I'm interested in using social identity theory to understand group processes and intergroup relations.
 
 interests:
 - Social Identity Theory
-- Self-Categorization Theory
-- Minority Influence
-- Integrated Threat Theory
+- Intergroup Threat Theory
+- Subjective Group Dynamics Model
+- Multivariate Statistics
+- Metascience
 
 education:
   courses:
@@ -46,12 +47,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jpeabody@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: osf
-  icon_pack: ai
-  link: 'https://osf.io/2hxt7/'  # For a direct email link, use "mailto:test@example.org".
-# - icon: github
-#  icon_pack: fab
-#  link: 'https://github.com/djamespeabody/'  # For a direct email link, use "mailto:test@example.org".
+# - icon: osf
+#  icon_pack: ai
+#  link: 'https://osf.io/2hxt7/'  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/djamespeabody/'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: 'files/cv.pdf'  # For a direct email link, use "mailto:test@example.org"
@@ -82,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-James Peabody is a graduate student studying social psychology with an emphasis in academic research. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics.
+James Peabody is a graduate student studying social psychology with an emphasis in academic research. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics and other areas. He is also interested in using multivariate statistical approaches to examine these phenomena, especially structural equation modeling. Additionally, he has a passion for developing skillsets related to statistical computing for data analysis and visualization, especially with <i>R</i> and <i>Python</i>.
