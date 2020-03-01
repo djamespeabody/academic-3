@@ -52,12 +52,6 @@ subtitle = ""
   description = "Skill Level: Basic"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python for Data Science"
-  description = "Skill Level: Basic"
-
-[[feature]]
   icon = "github
   icon_pack = "fab"
   name = "GitHub for Repository Management"
