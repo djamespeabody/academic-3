@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Skills"
+title = "Skillset"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -34,12 +34,6 @@ subtitle = ""
   description = "Skill Level: Advanced"
 
 [[feature]]
-  icon = "project-diagram"
-  icon_pack = "fas"
-  name = "Structural Equation Modeling"
-  description = "Skill Level: Proficient"
-  
-[[feature]]
   icon = "book"
   icon_pack = "fas"
   name = "Social Psychological Theory"
@@ -50,6 +44,12 @@ subtitle = ""
   icon_pack = "ai"
   name = "Open Science Practices"
   description = "Skill Level: Advanced" 
+
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Structural Equation Modeling"
+  description = "Skill Level: Proficient"
 
 [[feature]]
   icon = "clipboard-list"
