@@ -31,7 +31,7 @@ education:
   courses:
   - course: Pursuing Ph.D. in Social Psychology
     institution: Texas Tech University
-    year: 2021
+    year: Expected completion 2026
   - course: M.A. in Social Psychology
     institution: Humboldt State University
     year: 2021
