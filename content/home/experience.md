@@ -18,12 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Social Identity Theory and Health Lab, Texas Tech University"
+  company_url = "https://www.depts.ttu.edu/psy/sith/"
+  location = "Lubbock, Texas"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data analysis with <i>R</i>
+  * Data cleaning and visualization with <i>ggplot2</i> and other packages from the <i>tidyverse</i> suite.
+  * Experimental design
+  * Survey design with <i>Qualtrics</i>
+  * Website management using <i>GitHub</i>
+  * Presenting research at conferences
+  """
+
+[[experience]]
   title = "Graduate Research Assistant & Website Manager"
   company = "Social Identity Lab, Humboldt State University"
-  company_url = "https://hsusocialidentitylab.wixsite.com/silabhsu"
+  company_url = "https://www.depts.ttu.edu/psy/sith/"
   location = "Arcata, California"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-05-30"
   description = """
   Responsibilities include:
   
@@ -41,7 +59,7 @@ date_format = "Jan 2006"
   company_url = "https://psychology.humboldt.edu/cognition-lab"
   location = "Arcata, California"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2021-05-30"
   description = """
   Responsibilities include:
   

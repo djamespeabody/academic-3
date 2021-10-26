@@ -14,8 +14,8 @@ role: Graduate Student in Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt State University
-  url: "https://hsu-socialidentitylab.com"
+- name: Texas Tech University
+  url: "https://www.depts.ttu.edu/psy/sith/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in using social identity theory to understand group processes and intergroup relations.
@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: Pursuing M.A. in Psychology
+  - course: Pursuing Ph.D. in Social Psychology
+    institution: Texas Tech University
+    year: 2021
+  - course: M.A. in Social Psychology
     institution: Humboldt State University
     year: 2021
-  - course: Pursuing B.A. in Psychology
+  - course: B.A. in Psychology
     institution: Humboldt State Unversity
     year: 2021
-  - course: A.A. in Psychology
-    institution: Palomar College
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -83,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-James Peabody is a graduate student studying social psychology with an emphasis in academic research. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics and other areas. He is also interested in using multivariate statistical approaches to examine these phenomena, especially structural equation modeling. Additionally, he has a passion for developing skillsets related to statistical computing for data analysis and visualization, especially with <i>R</i> and <i>Python</i>.
+James Peabody is a graduate student studying experimental social psychology. He is interested in using the social identity approach to examine group processes and intergroup relations in U.S. politics and other areas. He is also interested in using multivariate statistical approaches to examine these phenomena, especially structural equation modeling. Additionally, he has a passion for developing skillsets related to statistical computing for data analysis and visualization, especially with <i>R</i>.
