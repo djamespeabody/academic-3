@@ -36,6 +36,22 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Web Development & Analytics Intern"
+  company = "Cubic Corporation"
+  company_url = "https://www.cubic.com/"
+  location = "San Diego California"
+  date_start = "2020-06-01"
+  date_end = "2021-03-30"
+  description = """
+  Responsibilities include:
+  
+  * Data analysis and cleaning with <i>Alteryx</i> and <i>R</i>
+  * Data visualization and dashboard development with <i>Tableau</i>
+  * Survey design
+  * Developed training modules for data literacy focused on <i>Tableau</i>
+  """
+
+[[experience]]
   title = "Graduate Research Assistant & Website Manager"
   company = "Social Identity Lab, Humboldt State University"
   company_url = "https://www.depts.ttu.edu/psy/sith/"

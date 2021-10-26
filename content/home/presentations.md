@@ -16,9 +16,9 @@ subtitle = ""
 
 
 +++
-<p style="margin-left: 60px; text-indent: -60px;"><b>Peabody, J.</b>, Gaffney, A. M. (<i>forthcoming</i>). <i>Will work for belongingness: Prototypicality, threat, uncertainty, and collective action willingness</i>. Oral presentation at the 2020 Western Psychological Association Conference in San Francisco, CA.</p>
+<p style="margin-left: 60px; text-indent: -60px;"><b>Peabody, J.</b>, Gaffney, A. M. (2020). <i>Will work for belongingness: Prototypicality, threat, uncertainty, and collective action willingness</i>. Oral presentation at the 2020 Western Psychological Association Conference</p>
 
-<p style="margin-left: 60px; text-indent: -60px;"><b>Peabody, J.</b>, Foster, A., Sanchez, K. (<i>forthcoming</i>). <i>Barely seeing red: Effects of cognitive disfluency and color primes on analytic reasoning</i>. Poster presentation at the 2020 Western Psychological Association Conference in San Francisco, CA.</p>
+<p style="margin-left: 60px; text-indent: -60px;"><b>Peabody, J.</b>, Foster, A., Sanchez, K. (2020). <i>Barely seeing red: Effects of cognitive disfluency and color primes on analytic reasoning</i>. Poster presentation at the 2020 Western Psychological Association Conference</p>
 
 <p style="margin-left: 60px; text-indent: -60px;"><b>Peabody, J.</b>, Beaulieu, J., Mendez, J., Hackett, J., & Gaffney, A. M. (2020). <i>Relationships between extreme ideology, integrated threat, and out-group evaluations</i>. Poster presented at the 2020 Society for the Personality and Social Psychology Conference in New Orleans, LA.</p>
 
