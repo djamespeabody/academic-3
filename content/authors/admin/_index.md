@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Pursuing Ph.D. in Social Psychology
+  - course: Ph.D. in Social Psychology (<i>in progress</i>)
     institution: Texas Tech University
     year: Expected completion 2026
   - course: M.A. in Social Psychology
